@@ -1,5 +1,5 @@
 # Threads
-Speed up the process of computing a Mandelbrot image by using multiple CPUs
+Speed up the process of computing a Mandelbrot image by using mulitple processes and multiple threads
 
 Run make to build the code
 
